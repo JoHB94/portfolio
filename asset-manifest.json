@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e9297566.css",
-    "main.js": "/portfolio/static/js/main.b942a3e3.js",
+    "main.js": "/portfolio/static/js/main.e4595022.js",
     "static/media/Sunflower-Medium.ttf": "/portfolio/static/media/Sunflower-Medium.e76a775371fbf8a35896.ttf",
     "static/media/Sunflower-Light.ttf": "/portfolio/static/media/Sunflower-Light.9dfe528a4ce079ccf982.ttf",
     "static/media/Sunflower-Bold.ttf": "/portfolio/static/media/Sunflower-Bold.125b8a2a9ee158e0476e.ttf",
     "static/media/dev1.png": "/portfolio/static/media/dev1.f625c128a6b5a90dff9e.png",
     "index.html": "/portfolio/index.html",
     "main.e9297566.css.map": "/portfolio/static/css/main.e9297566.css.map",
-    "main.b942a3e3.js.map": "/portfolio/static/js/main.b942a3e3.js.map"
+    "main.e4595022.js.map": "/portfolio/static/js/main.e4595022.js.map"
   },
   "entrypoints": [
     "static/css/main.e9297566.css",
-    "static/js/main.b942a3e3.js"
+    "static/js/main.e4595022.js"
   ]
 }
